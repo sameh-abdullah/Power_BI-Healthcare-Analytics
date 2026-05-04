@@ -63,7 +63,7 @@ Star schema with a fact table and lookup tables
 ---
 
 ## 🖼️ Dashboard Preview
-**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhhMTMxZmItM2I4Zi00NjgwLWE5MmItYTZhNmViMWM0YTYxIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
+**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhhMTMxZmItM2I4Zi00NjgwLWE5MmItYTZhNmViMWM0YTYxIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Healthcare Analysis Dashboard</a></br>
 
 **Project Dashboard Image**
 <img src="https://github.com/sameh-abdullah/Power_BI-Healthcare-Analytics/blob/main/docs/Healthcare%20DB_p1.png" width="1000" heigh="1000"/></br>
