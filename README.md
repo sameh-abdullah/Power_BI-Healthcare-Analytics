@@ -25,7 +25,7 @@ The dashboard tells the story of patient care across hospitals, identifies trend
 - **Source:** Excel file (`Healthcare Analysis Dataset.xlsx`)
 - **Main Table:** `healthcareData`
 
-## Key Features
+## 📝 Key Features
 - Total patients, total bills, and average service time tracking
 - Year-over-year comparisons for patients and billing
 - Percentage-to-average metrics and color-coded performance indicators
@@ -63,7 +63,7 @@ Star schema with a fact table and lookup tables
 ---
 
 ## 🖼️ Dashboard Preview
-**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJmMjUxZTMtZWQwMS00ZTkwLTgwOGEtOGVjYzAwMTY0YTVlIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
+**Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhhMTMxZmItM2I4Zi00NjgwLWE5MmItYTZhNmViMWM0YTYxIiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Disease Analysis Dashboard</a></br>
 
 **Project Dashboard Image**
 <img src="https://github.com/sameh-abdullah/Power_BI-Healthcare-Analytics/blob/main/docs/Healthcare%20DB_p1.png" width="1000" heigh="1000"/></br>
@@ -74,7 +74,7 @@ Star schema with a fact table and lookup tables
 
 ## 📁 Project Structure
  ├── dataset/ <a href="dataset">Dataset (Excel file)</a> <br>
- ├── docs/ <a href=""> Dashboard screenshots</a> <br>
+ ├── docs/ <a href="docs">docs</a> <br>
  ├── reports template/ <a href="report template"> Power BI file (.pbit)</a> <br>
  └── README.md
 
